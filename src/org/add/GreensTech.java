@@ -21,6 +21,8 @@ public class GreensTech {
 			g.greensOmr("GreensTech", 2010);
 			g.greensOmr('G');
 			g.greensOmr(600092, "Opposite to Sankeetha hotel, Thoraipakkam");
+			g.greensOmr(600092, "Opposite to Sankeetha hotel, Thoraipakkam");
+			g.greensOmr(600092, "Opposite to Sankeetha hotel, Thoraipakkam");
 		
 		System.out.println("hIIIII");
 		}
